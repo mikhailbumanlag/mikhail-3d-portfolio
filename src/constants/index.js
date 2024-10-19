@@ -62,7 +62,7 @@ export const myProjects = [
     desc: "This project is a comprehensive clone of Apple's website, built using ReactJS, Tailwind CSS, and GSAP for dynamic animations. The goal was to replicate the sleek, modern aesthetic of Apple's design while incorporating interactive features that enhance user experience.",
     subdesc:
       "The project features a responsive design built with Tailwind CSS, ensuring optimal viewing across all devices. It integrates 3D models of Apple products, animated using GSAP for a visually engaging experience. User interactions are enhanced through smooth hover effects and transitions, while React Router enables dynamic navigation between product pages. Additionally, the site is optimized for performance, delivering fast load times and fluid animations without sacrificing quality.",
-    href: "#",
+    href: "https://mikhailbumanlag.github.io/apple-3d-clone/",
     texture: "textures/project/hightlight-fourth.mp4",
     logo: "assets/apple.svg",
     logoStyle: {
